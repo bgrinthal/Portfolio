@@ -62,11 +62,6 @@ article h2 {
   font-size: 200%;
 }
 
-.center {
-  text-align: center;
-  margin: auto;
-}
-
 /* Headshot image properties */
 
 section > img {
@@ -221,4 +216,11 @@ a.c-links:hover {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 20px;
   background-color: beige;
+}
+
+/* Footer styling */
+
+.center {
+  text-align: center;
+  margin: auto;
 }
