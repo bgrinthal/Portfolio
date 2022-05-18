@@ -2,3 +2,4 @@ This project is to make a reactive portfolio website using HTML and CSS abiding 
 
 https://bgrinthal.github.io/Portfolio/
 
+![ScreenShot](/assets/images/screenshot.png)
